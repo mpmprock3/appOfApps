@@ -13,7 +13,7 @@ gitops:
   namespace: openshift-gitops
 
 # Passing this value to all of the sub-applications to make it so we can dynamically figure out urls
-clusterDomain: apps.rosa.mapandey-hcp.ki1n.p3.openshiftapps.com
+clusterDomain: apps.rosa.example.com
 
 # Default Values File for the Helm Chart
 defaultValuesFile: values.yaml
