@@ -10,7 +10,7 @@ storage:
   accessKey: AWS_ACCESS_KEY_ID
   secretKey: AWS_SECRET_ACCESS_KEY
   region: 'us-east-1'
-  bucket: 'rhsaia-model-storage-e84c268a-da64-4ddd'
+  bucket: 'model-s3-bucket-xyz'
   host: 's3.us-east-1.amazonaws.com'
 
 
